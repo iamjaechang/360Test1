@@ -1,0 +1,11 @@
+#: locale=en
+
+## Tour
+
+### Title
+tour.name = Pano_Test_1
+
+## Media
+
+### Title
+panorama_92D82562_8100_73C3_41CC_F92BF599C1BE.label = 20190911_180821
